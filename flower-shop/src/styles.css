@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+
+p {
+    font-family: Arial;
+  }
+  h1{
+    color: maroon;
+    text-align: center;
+  }
+  .title{
+    color: maroon;
+  }
+  .uppercase{
+    text-transform:uppercase;
+  }
+  #article-title{
+    font-family: cursive;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-color: maroon;
+    text-align: center;
+  }
+  h2{
+    color: midnightblue;
+    font-family: cursive;
+    text-align: center;
+  }
+  h3{
+    color: midnightblue;
+    text-align: center;
+  }
+
+  #article-h2{
+    font-family: cursive;
+    text-align: center;
+  }
+  #article-h3{
+    font-family: cursive;
+    text-align: center;
+  }
+  html{
+    background-image: url('http://hdwpro.com/wp-content/uploads/2018/10/Top-Cute-Background-380x250.jpg');
+  }
